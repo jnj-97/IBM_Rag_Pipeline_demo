@@ -27,8 +27,6 @@ Install them using pip:
 pip install sentence-transformers faiss-cpu langchain_community replicate
 ```
 
-````
-
 ### API Key
 
 This notebook uses the Replicate API for the Large Language Model. You will need a Replicate API token.
@@ -79,6 +77,3 @@ If you are traveling to France before January 1, 2025, you will need to apply fo
 
 - **LLM**: `ibm-granite/granite-3.2-8b-instruct` from Replicate.
 - **Embedding Model**: `all-MiniLM-L6-v2` from Sentence Transformers.
-
-
-````
