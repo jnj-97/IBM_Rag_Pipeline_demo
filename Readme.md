@@ -1,4 +1,3 @@
-````markdown
 # Retrieval-Augmented Generation (RAG) Notebook
 
 ## Overview
@@ -27,6 +26,7 @@ Install them using pip:
 ```bash
 pip install sentence-transformers faiss-cpu langchain_community replicate
 ```
+
 ````
 
 ### API Key
@@ -80,6 +80,5 @@ If you are traveling to France before January 1, 2025, you will need to apply fo
 - **LLM**: `ibm-granite/granite-3.2-8b-instruct` from Replicate.
 - **Embedding Model**: `all-MiniLM-L6-v2` from Sentence Transformers.
 
-```
 
-```
+````
